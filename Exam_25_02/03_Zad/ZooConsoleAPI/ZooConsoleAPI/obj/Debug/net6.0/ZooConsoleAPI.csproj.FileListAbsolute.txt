@@ -1,0 +1,134 @@
+C:\Users\Леново\Downloads\Exam_02_03\03_Zad\ZooConsoleAPI\ZooConsoleAPI\bin\Debug\net6.0\ZooConsoleAPI.exe
+C:\Users\Леново\Downloads\Exam_02_03\03_Zad\ZooConsoleAPI\ZooConsoleAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\Леново\Downloads\Exam_02_03\03_Zad\ZooConsoleAPI\ZooConsoleAPI\bin\Debug\net6.0\Data\Seed\animals.json
+C:\Users\Леново\Downloads\Exam_02_03\03_Zad\ZooConsoleAPI\ZooConsoleAPI\bin\Debug\net6.0\ZooConsoleAPI.deps.json
+C:\Users\Леново\Downloads\Exam_02_03\03_Zad\ZooConsoleAPI\ZooConsoleAPI\bin\Debug\net6.0\ZooConsoleAPI.runtimeconfig.json
+C:\Users\Леново\Downloads\Exam_02_03\03_Zad\ZooConsoleAPI\ZooConsoleAPI\bin\Debug\net6.0\ZooConsoleAPI.dll
+C:\Users\Леново\Downloads\Exam_02_03\03_Zad\ZooConsoleAPI\ZooConsoleAPI\bin\Debug\net6.0\ZooConsoleAPI.pdb
+C:\Users\Леново\Downloads\Exam_02_03\03_Zad\ZooConsoleAPI\ZooConsoleAPI\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Леново\Downloads\Exam_02_03\03_Zad\ZooConsoleAPI\ZooConsoleAPI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Леново\Downloads\Exam_02_03\03_Zad\ZooConsoleAPI\ZooConsoleAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Леново\Downloads\Exam_02_03\03_Zad\ZooConsoleAPI\ZooConsoleAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Леново\Downloads\Exam_02_03\03_Zad\ZooConsoleAPI\ZooConsoleAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Леново\Downloads\Exam_02_03\03_Zad\ZooConsoleAPI\ZooConsoleAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Леново\Downloads\Exam_02_03\03_Zad\ZooConsoleAPI\ZooConsoleAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Леново\Downloads\Exam_02_03\03_Zad\ZooConsoleAPI\ZooConsoleAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Леново\Downloads\Exam_02_03\03_Zad\ZooConsoleAPI\ZooConsoleAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Леново\Downloads\Exam_02_03\03_Zad\ZooConsoleAPI\ZooConsoleAPI\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+C:\Users\Леново\Downloads\Exam_02_03\03_Zad\ZooConsoleAPI\ZooConsoleAPI\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Леново\Downloads\Exam_02_03\03_Zad\ZooConsoleAPI\ZooConsoleAPI\bin\Debug\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Леново\Downloads\Exam_02_03\03_Zad\ZooConsoleAPI\ZooConsoleAPI\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Леново\Downloads\Exam_02_03\03_Zad\ZooConsoleAPI\ZooConsoleAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Леново\Downloads\Exam_02_03\03_Zad\ZooConsoleAPI\ZooConsoleAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Леново\Downloads\Exam_02_03\03_Zad\ZooConsoleAPI\ZooConsoleAPI\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Леново\Downloads\Exam_02_03\03_Zad\ZooConsoleAPI\ZooConsoleAPI\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Леново\Downloads\Exam_02_03\03_Zad\ZooConsoleAPI\ZooConsoleAPI\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Леново\Downloads\Exam_02_03\03_Zad\ZooConsoleAPI\ZooConsoleAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\Леново\Downloads\Exam_02_03\03_Zad\ZooConsoleAPI\ZooConsoleAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Леново\Downloads\Exam_02_03\03_Zad\ZooConsoleAPI\ZooConsoleAPI\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\Леново\Downloads\Exam_02_03\03_Zad\ZooConsoleAPI\ZooConsoleAPI\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Леново\Downloads\Exam_02_03\03_Zad\ZooConsoleAPI\ZooConsoleAPI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Леново\Downloads\Exam_02_03\03_Zad\ZooConsoleAPI\ZooConsoleAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Леново\Downloads\Exam_02_03\03_Zad\ZooConsoleAPI\ZooConsoleAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Леново\Downloads\Exam_02_03\03_Zad\ZooConsoleAPI\ZooConsoleAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Леново\Downloads\Exam_02_03\03_Zad\ZooConsoleAPI\ZooConsoleAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Леново\Downloads\Exam_02_03\03_Zad\ZooConsoleAPI\ZooConsoleAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Леново\Downloads\Exam_02_03\03_Zad\ZooConsoleAPI\ZooConsoleAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Леново\Downloads\Exam_02_03\03_Zad\ZooConsoleAPI\ZooConsoleAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Леново\Downloads\Exam_02_03\03_Zad\ZooConsoleAPI\ZooConsoleAPI\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Леново\Downloads\Exam_02_03\03_Zad\ZooConsoleAPI\ZooConsoleAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Леново\Downloads\Exam_02_03\03_Zad\ZooConsoleAPI\ZooConsoleAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Леново\Downloads\Exam_02_03\03_Zad\ZooConsoleAPI\ZooConsoleAPI\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Леново\Downloads\Exam_02_03\03_Zad\ZooConsoleAPI\ZooConsoleAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Леново\Downloads\Exam_02_03\03_Zad\ZooConsoleAPI\ZooConsoleAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Леново\Downloads\Exam_02_03\03_Zad\ZooConsoleAPI\ZooConsoleAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Леново\Downloads\Exam_02_03\03_Zad\ZooConsoleAPI\ZooConsoleAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Леново\Downloads\Exam_02_03\03_Zad\ZooConsoleAPI\ZooConsoleAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Леново\Downloads\Exam_02_03\03_Zad\ZooConsoleAPI\ZooConsoleAPI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Леново\Downloads\Exam_02_03\03_Zad\ZooConsoleAPI\ZooConsoleAPI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Леново\Downloads\Exam_02_03\03_Zad\ZooConsoleAPI\ZooConsoleAPI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Леново\Downloads\Exam_02_03\03_Zad\ZooConsoleAPI\ZooConsoleAPI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Леново\Downloads\Exam_02_03\03_Zad\ZooConsoleAPI\ZooConsoleAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Леново\Downloads\Exam_02_03\03_Zad\ZooConsoleAPI\ZooConsoleAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Леново\Downloads\Exam_02_03\03_Zad\ZooConsoleAPI\ZooConsoleAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Леново\Downloads\Exam_02_03\03_Zad\ZooConsoleAPI\ZooConsoleAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Леново\Downloads\Exam_02_03\03_Zad\ZooConsoleAPI\ZooConsoleAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Леново\Downloads\Exam_02_03\03_Zad\ZooConsoleAPI\ZooConsoleAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Леново\Downloads\Exam_02_03\03_Zad\ZooConsoleAPI\ZooConsoleAPI\obj\Debug\net6.0\ZooConsoleAPI.csproj.AssemblyReference.cache
+C:\Users\Леново\Downloads\Exam_02_03\03_Zad\ZooConsoleAPI\ZooConsoleAPI\obj\Debug\net6.0\ZooConsoleAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Леново\Downloads\Exam_02_03\03_Zad\ZooConsoleAPI\ZooConsoleAPI\obj\Debug\net6.0\ZooConsoleAPI.AssemblyInfoInputs.cache
+C:\Users\Леново\Downloads\Exam_02_03\03_Zad\ZooConsoleAPI\ZooConsoleAPI\obj\Debug\net6.0\ZooConsoleAPI.AssemblyInfo.cs
+C:\Users\Леново\Downloads\Exam_02_03\03_Zad\ZooConsoleAPI\ZooConsoleAPI\obj\Debug\net6.0\ZooConsoleAPI.csproj.CoreCompileInputs.cache
+C:\Users\Леново\Downloads\Exam_02_03\03_Zad\ZooConsoleAPI\ZooConsoleAPI\obj\Debug\net6.0\ZooConsoleAPI.csproj.CopyComplete
+C:\Users\Леново\Downloads\Exam_02_03\03_Zad\ZooConsoleAPI\ZooConsoleAPI\obj\Debug\net6.0\ZooConsoleAPI.dll
+C:\Users\Леново\Downloads\Exam_02_03\03_Zad\ZooConsoleAPI\ZooConsoleAPI\obj\Debug\net6.0\refint\ZooConsoleAPI.dll
+C:\Users\Леново\Downloads\Exam_02_03\03_Zad\ZooConsoleAPI\ZooConsoleAPI\obj\Debug\net6.0\ZooConsoleAPI.pdb
+C:\Users\Леново\Downloads\Exam_02_03\03_Zad\ZooConsoleAPI\ZooConsoleAPI\obj\Debug\net6.0\ZooConsoleAPI.genruntimeconfig.cache
+C:\Users\Леново\Downloads\Exam_02_03\03_Zad\ZooConsoleAPI\ZooConsoleAPI\obj\Debug\net6.0\ref\ZooConsoleAPI.dll
+D:\Back-End Technologies Basics - януари 2024\Exam_25_02\03_Zad\ZooConsoleAPI\ZooConsoleAPI\bin\Debug\net6.0\ZooConsoleAPI.exe
+D:\Back-End Technologies Basics - януари 2024\Exam_25_02\03_Zad\ZooConsoleAPI\ZooConsoleAPI\bin\Debug\net6.0\appsettings.json
+D:\Back-End Technologies Basics - януари 2024\Exam_25_02\03_Zad\ZooConsoleAPI\ZooConsoleAPI\bin\Debug\net6.0\Data\Seed\animals.json
+D:\Back-End Technologies Basics - януари 2024\Exam_25_02\03_Zad\ZooConsoleAPI\ZooConsoleAPI\bin\Debug\net6.0\ZooConsoleAPI.deps.json
+D:\Back-End Technologies Basics - януари 2024\Exam_25_02\03_Zad\ZooConsoleAPI\ZooConsoleAPI\bin\Debug\net6.0\ZooConsoleAPI.runtimeconfig.json
+D:\Back-End Technologies Basics - януари 2024\Exam_25_02\03_Zad\ZooConsoleAPI\ZooConsoleAPI\bin\Debug\net6.0\ZooConsoleAPI.dll
+D:\Back-End Technologies Basics - януари 2024\Exam_25_02\03_Zad\ZooConsoleAPI\ZooConsoleAPI\bin\Debug\net6.0\ZooConsoleAPI.pdb
+D:\Back-End Technologies Basics - януари 2024\Exam_25_02\03_Zad\ZooConsoleAPI\ZooConsoleAPI\bin\Debug\net6.0\Humanizer.dll
+D:\Back-End Technologies Basics - януари 2024\Exam_25_02\03_Zad\ZooConsoleAPI\ZooConsoleAPI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Back-End Technologies Basics - януари 2024\Exam_25_02\03_Zad\ZooConsoleAPI\ZooConsoleAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Back-End Technologies Basics - януари 2024\Exam_25_02\03_Zad\ZooConsoleAPI\ZooConsoleAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Back-End Technologies Basics - януари 2024\Exam_25_02\03_Zad\ZooConsoleAPI\ZooConsoleAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Back-End Technologies Basics - януари 2024\Exam_25_02\03_Zad\ZooConsoleAPI\ZooConsoleAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Back-End Technologies Basics - януари 2024\Exam_25_02\03_Zad\ZooConsoleAPI\ZooConsoleAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Back-End Technologies Basics - януари 2024\Exam_25_02\03_Zad\ZooConsoleAPI\ZooConsoleAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Back-End Technologies Basics - януари 2024\Exam_25_02\03_Zad\ZooConsoleAPI\ZooConsoleAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Back-End Technologies Basics - януари 2024\Exam_25_02\03_Zad\ZooConsoleAPI\ZooConsoleAPI\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+D:\Back-End Technologies Basics - януари 2024\Exam_25_02\03_Zad\ZooConsoleAPI\ZooConsoleAPI\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Back-End Technologies Basics - януари 2024\Exam_25_02\03_Zad\ZooConsoleAPI\ZooConsoleAPI\bin\Debug\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Back-End Technologies Basics - януари 2024\Exam_25_02\03_Zad\ZooConsoleAPI\ZooConsoleAPI\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Json.dll
+D:\Back-End Technologies Basics - януари 2024\Exam_25_02\03_Zad\ZooConsoleAPI\ZooConsoleAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Back-End Technologies Basics - януари 2024\Exam_25_02\03_Zad\ZooConsoleAPI\ZooConsoleAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Back-End Technologies Basics - януари 2024\Exam_25_02\03_Zad\ZooConsoleAPI\ZooConsoleAPI\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Back-End Technologies Basics - януари 2024\Exam_25_02\03_Zad\ZooConsoleAPI\ZooConsoleAPI\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Back-End Technologies Basics - януари 2024\Exam_25_02\03_Zad\ZooConsoleAPI\ZooConsoleAPI\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Back-End Technologies Basics - януари 2024\Exam_25_02\03_Zad\ZooConsoleAPI\ZooConsoleAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\Back-End Technologies Basics - януари 2024\Exam_25_02\03_Zad\ZooConsoleAPI\ZooConsoleAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Back-End Technologies Basics - януари 2024\Exam_25_02\03_Zad\ZooConsoleAPI\ZooConsoleAPI\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\Back-End Technologies Basics - януари 2024\Exam_25_02\03_Zad\ZooConsoleAPI\ZooConsoleAPI\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\Back-End Technologies Basics - януари 2024\Exam_25_02\03_Zad\ZooConsoleAPI\ZooConsoleAPI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Back-End Technologies Basics - януари 2024\Exam_25_02\03_Zad\ZooConsoleAPI\ZooConsoleAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Back-End Technologies Basics - януари 2024\Exam_25_02\03_Zad\ZooConsoleAPI\ZooConsoleAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Back-End Technologies Basics - януари 2024\Exam_25_02\03_Zad\ZooConsoleAPI\ZooConsoleAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Back-End Technologies Basics - януари 2024\Exam_25_02\03_Zad\ZooConsoleAPI\ZooConsoleAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Back-End Technologies Basics - януари 2024\Exam_25_02\03_Zad\ZooConsoleAPI\ZooConsoleAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Back-End Technologies Basics - януари 2024\Exam_25_02\03_Zad\ZooConsoleAPI\ZooConsoleAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Back-End Technologies Basics - януари 2024\Exam_25_02\03_Zad\ZooConsoleAPI\ZooConsoleAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Back-End Technologies Basics - януари 2024\Exam_25_02\03_Zad\ZooConsoleAPI\ZooConsoleAPI\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\Back-End Technologies Basics - януари 2024\Exam_25_02\03_Zad\ZooConsoleAPI\ZooConsoleAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Back-End Technologies Basics - януари 2024\Exam_25_02\03_Zad\ZooConsoleAPI\ZooConsoleAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Back-End Technologies Basics - януари 2024\Exam_25_02\03_Zad\ZooConsoleAPI\ZooConsoleAPI\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Back-End Technologies Basics - януари 2024\Exam_25_02\03_Zad\ZooConsoleAPI\ZooConsoleAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Back-End Technologies Basics - януари 2024\Exam_25_02\03_Zad\ZooConsoleAPI\ZooConsoleAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Back-End Technologies Basics - януари 2024\Exam_25_02\03_Zad\ZooConsoleAPI\ZooConsoleAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Back-End Technologies Basics - януари 2024\Exam_25_02\03_Zad\ZooConsoleAPI\ZooConsoleAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Back-End Technologies Basics - януари 2024\Exam_25_02\03_Zad\ZooConsoleAPI\ZooConsoleAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Back-End Technologies Basics - януари 2024\Exam_25_02\03_Zad\ZooConsoleAPI\ZooConsoleAPI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Back-End Technologies Basics - януари 2024\Exam_25_02\03_Zad\ZooConsoleAPI\ZooConsoleAPI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Back-End Technologies Basics - януари 2024\Exam_25_02\03_Zad\ZooConsoleAPI\ZooConsoleAPI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Back-End Technologies Basics - януари 2024\Exam_25_02\03_Zad\ZooConsoleAPI\ZooConsoleAPI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Back-End Technologies Basics - януари 2024\Exam_25_02\03_Zad\ZooConsoleAPI\ZooConsoleAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Back-End Technologies Basics - януари 2024\Exam_25_02\03_Zad\ZooConsoleAPI\ZooConsoleAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Back-End Technologies Basics - януари 2024\Exam_25_02\03_Zad\ZooConsoleAPI\ZooConsoleAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Back-End Technologies Basics - януари 2024\Exam_25_02\03_Zad\ZooConsoleAPI\ZooConsoleAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Back-End Technologies Basics - януари 2024\Exam_25_02\03_Zad\ZooConsoleAPI\ZooConsoleAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Back-End Technologies Basics - януари 2024\Exam_25_02\03_Zad\ZooConsoleAPI\ZooConsoleAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Back-End Technologies Basics - януари 2024\Exam_25_02\03_Zad\ZooConsoleAPI\ZooConsoleAPI\obj\Debug\net6.0\ZooConsoleAPI.csproj.AssemblyReference.cache
+D:\Back-End Technologies Basics - януари 2024\Exam_25_02\03_Zad\ZooConsoleAPI\ZooConsoleAPI\obj\Debug\net6.0\ZooConsoleAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Back-End Technologies Basics - януари 2024\Exam_25_02\03_Zad\ZooConsoleAPI\ZooConsoleAPI\obj\Debug\net6.0\ZooConsoleAPI.AssemblyInfoInputs.cache
+D:\Back-End Technologies Basics - януари 2024\Exam_25_02\03_Zad\ZooConsoleAPI\ZooConsoleAPI\obj\Debug\net6.0\ZooConsoleAPI.AssemblyInfo.cs
+D:\Back-End Technologies Basics - януари 2024\Exam_25_02\03_Zad\ZooConsoleAPI\ZooConsoleAPI\obj\Debug\net6.0\ZooConsoleAPI.csproj.CoreCompileInputs.cache
+D:\Back-End Technologies Basics - януари 2024\Exam_25_02\03_Zad\ZooConsoleAPI\ZooConsoleAPI\obj\Debug\net6.0\ZooConsoleAPI.csproj.CopyComplete
+D:\Back-End Technologies Basics - януари 2024\Exam_25_02\03_Zad\ZooConsoleAPI\ZooConsoleAPI\obj\Debug\net6.0\ZooConsoleAPI.dll
+D:\Back-End Technologies Basics - януари 2024\Exam_25_02\03_Zad\ZooConsoleAPI\ZooConsoleAPI\obj\Debug\net6.0\refint\ZooConsoleAPI.dll
+D:\Back-End Technologies Basics - януари 2024\Exam_25_02\03_Zad\ZooConsoleAPI\ZooConsoleAPI\obj\Debug\net6.0\ZooConsoleAPI.pdb
+D:\Back-End Technologies Basics - януари 2024\Exam_25_02\03_Zad\ZooConsoleAPI\ZooConsoleAPI\obj\Debug\net6.0\ZooConsoleAPI.genruntimeconfig.cache
+D:\Back-End Technologies Basics - януари 2024\Exam_25_02\03_Zad\ZooConsoleAPI\ZooConsoleAPI\obj\Debug\net6.0\ref\ZooConsoleAPI.dll
